@@ -20,7 +20,6 @@ getVersion	    KEYWORD2
 
 getButton	KEYWORD2
 getTimeSincePressed	    KEYWORD2
-updateFIFO	    KEYWORD2
 
 isConnected	    KEYWORD2
 
